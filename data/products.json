@@ -1,0 +1,146 @@
+[
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "SOFA",
+        "category_id": "01",
+        "product_name" : "SOFA",
+        "price": "16.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "ALMIRAH",
+        "category_id": "02",
+        "product_name" : "ALMIRAH",
+        "price": "25.75"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "WORK TABLE",
+        "category_id": "03",
+        "product_name" : "WORK TABLE",
+        "price": "21.15"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "BED",
+        "category_id": "04",
+        "product_name" : "BED",
+        "price": "12.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "DINNER TABLE",
+        "category_id": "05",
+        "product_name" : "DINNER TABLE",
+        "price": "18.40"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "OFFICE DESK",
+        "category_id": "06",
+        "product_name" : "OFFICE DESK",
+        "price": "18.40"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "SOFA",
+        "category_id": "01",
+        "product_name" : "SOFA",
+        "price": "16.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "ALMIRAH",
+        "category_id": "02",
+        "product_name" : "ALMIRAH",
+        "price": "25.75"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "WORK TABLE",
+        "category_id": "03",
+        "product_name" : "WORK TABLE",
+        "price": "21.15"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "BED",
+        "category_id": "04",
+        "product_name" : "BED",
+        "price": "12.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "DINNER TABLE",
+        "category_id": "05",
+        "product_name" : "DINNER TABLE",
+        "price": "18.40"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "OFFICE DESK",
+        "category_id": "06",
+        "product_name" : "OFFICE DESK",
+        "price": "18.40"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "SOFA",
+        "category_id": "01",
+        "product_name" : "SOFA",
+        "price": "16.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "ALMIRAH",
+        "category_id": "02",
+        "product_name" : "ALMIRAH",
+        "price": "25.75"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "WORK TABLE",
+        "category_id": "03",
+        "product_name" : "WORK TABLE",
+        "price": "21.25"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "BED",
+        "category_id": "04",
+        "product_name" : "BED",
+        "price": "12.00"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "DINNER TABLE",
+        "category_id": "05",
+        "product_name" : "DINNER TABLE",
+        "price": "18.40"
+
+    },
+    {
+        "img": "https://i.ibb.co/TtNDrZr/mid-century-modern-living-room-interior-design-with-monstera-tree-53876-129804.jpg",
+        "category_name": "OFFICE DESK",
+        "category_id": "06",
+        "product_name" : "OFFICE DESK",
+        "price": "18.40"
+
+    }
+]
